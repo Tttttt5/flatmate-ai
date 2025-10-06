@@ -1,20 +1,11 @@
-# Core AI & NLP
 transformers>=4.44.0
 torch
 sentencepiece
 accelerate
-
-# Data & utilities
 pandas
 numpy
 schedule
-
-# Dashboard
 streamlit
-
-# Optional: API / app support
 fastapi
 uvicorn
-
-# Model dependencies
 huggingface-hub
